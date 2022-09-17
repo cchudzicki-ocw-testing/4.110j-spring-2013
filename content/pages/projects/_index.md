@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of student project for the course and
+  image galleries of student projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
